@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">Code Challenge</string>
-    <string name="movie_and_genres">%s - %s</string>
+
+    <!-- Common-->
+    <string name="connection_problem">Problema de conexão :(</string>
+
+    <!--UpcomingMovieActivity-->
+    <string name="upcoming">Filmes - Lançamentos</string>
+
+    <!--MovieDetailsActivity-->
+    <string name="details">Detalhes</string>
+    <string name="description_movie_info">Informações do filme</string>
+    <string name="release_date">Data da versão:: \u0020</string>
+    <string name="rating">Classificação: \u0020</string>
+    <string name="runtime">Duração: \u0020</string>
+    <string name="overview">Visão geral</string>
+
 </resources>
